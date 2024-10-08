@@ -65,8 +65,13 @@ def main():
     Once tournament data is collected and parsed, loop through all tournaments and insert them into the calendar.
     """
     
-    
-
+    try:
+        with open('r_schedule_2025', 'r') as fStream:
+            data = json.load(fStream)
+            # Need to check to ensure data is properly captured (isinstance)
+            # Then need to traverse through the json data and build out tournament objects.
+            # Once the tournament object is created, add it into the tournaments list for storage.
+            
 
     
 
