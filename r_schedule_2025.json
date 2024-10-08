@@ -1,0 +1,5296 @@
+[
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025016",
+		"schedule_id": 179930,
+		"Perm_Num": 16,
+		"sequence_number": 10,
+		"Tournament_Name": "The Sentry",
+		"Tournament_ShortName": "Sentry",
+		"shotlink_short_name": "Sentry",
+		"start_date": "2025-01-02T00:00:00",
+		"end_date": "2025-01-05T00:00:00",
+		"timezone": "HT",
+		"timezone_desc": "Pacific\/Honolulu",
+		"played_year": 2025,
+		"designated_event": true,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Plantation Course at Kapalua",
+				"number": 656,
+				"abbreviation": "PC",
+				"city": "Kapalua, Maui",
+				"country": "USA",
+				"state": "Hawaii",
+				"stateAbbreviation": "HI",
+				"host_course": "1",
+				"total_par_value": 73,
+				"total_yardage": 7596,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 520
+					},
+					{
+						"hole_number": 2,
+						"par_value": 3,
+						"scorecard_yardage": 219
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 424
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 422
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 526
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 424
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 522
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 199
+					},
+					{
+						"hole_number": 9,
+						"par_value": 5,
+						"scorecard_yardage": 550
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 384
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 161
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 424
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 383
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 301
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 541
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 369
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 550
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 677
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 30926,
+				"first_name": "Chris",
+				"last_name": "Kirk",
+				"fedex_points_earned": 700.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3600000.00,
+				"total_score": 263
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025006",
+		"schedule_id": 179931,
+		"Perm_Num": 6,
+		"sequence_number": 20,
+		"Tournament_Name": "Sony Open in Hawaii",
+		"Tournament_ShortName": "Sony Open",
+		"shotlink_short_name": "Sony Open",
+		"start_date": "2025-01-09T00:00:00",
+		"end_date": "2025-01-12T00:00:00",
+		"timezone": "HT",
+		"timezone_desc": "Pacific\/Honolulu",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Waialae Country Club",
+				"number": 6,
+				"abbreviation": "WC",
+				"city": "Honolulu",
+				"country": "USA",
+				"state": "Hawaii",
+				"stateAbbreviation": "HI",
+				"host_course": "1",
+				"total_par_value": 70,
+				"total_yardage": 7044,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 480
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 423
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 422
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 204
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 467
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 460
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 176
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 9,
+						"par_value": 5,
+						"scorecard_yardage": 506
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 351
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 194
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 440
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 477
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 430
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 398
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 417
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 194
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 551
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 34213,
+				"first_name": "Grayson",
+				"last_name": "Murray",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1494000.00,
+				"total_score": 263
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025002",
+		"schedule_id": 179932,
+		"Perm_Num": 2,
+		"sequence_number": 30,
+		"Tournament_Name": "The American Express",
+		"Tournament_ShortName": "The American Express",
+		"shotlink_short_name": "The American Express",
+		"start_date": "2025-01-16T00:00:00",
+		"end_date": "2025-01-19T00:00:00",
+		"timezone": "PT",
+		"timezone_desc": "America\/Los_Angeles",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "La Quinta Country Club",
+				"number": 202,
+				"abbreviation": "LQ",
+				"city": "La Quinta",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "0",
+				"total_par_value": 72,
+				"total_yardage": 7060,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 382
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 384
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 516
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 527
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 168
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 389
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 399
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 405
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 543
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 547
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 469
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 206
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 421
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 412
+					}
+				]
+			},
+			{
+				"name": "Pete Dye Stadium Course",
+				"number": 704,
+				"abbreviation": "SC",
+				"city": "La Quinta",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7187,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 382
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 384
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 516
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 527
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 168
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 389
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 399
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 405
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 543
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 547
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 469
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 206
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 421
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 412
+					}
+				]
+			},
+			{
+				"name": "Nicklaus Tournament Course",
+				"number": 233,
+				"abbreviation": "NT",
+				"city": "La Quinta",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "0",
+				"total_par_value": 72,
+				"total_yardage": 7159,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 382
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 384
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 516
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 527
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 168
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 389
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 399
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 405
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 543
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 547
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 469
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 206
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 421
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 412
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 59866,
+				"first_name": "Nick",
+				"last_name": "Dunlap",
+				"fedex_points_earned": 0.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 0.00,
+				"total_score": 259
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025004",
+		"schedule_id": 179933,
+		"Perm_Num": 4,
+		"sequence_number": 40,
+		"Tournament_Name": "Farmers Insurance Open",
+		"Tournament_ShortName": "Farmers",
+		"shotlink_short_name": "Farmers",
+		"start_date": "2025-01-22T00:00:00",
+		"end_date": "2025-01-25T00:00:00",
+		"timezone": "PT",
+		"timezone_desc": "America\/Los_Angeles",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Torrey Pines Golf Course (South Course)",
+				"number": 4,
+				"abbreviation": "SC",
+				"city": "San Diego",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7765,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 451
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 389
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 201
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 490
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 564
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 462
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 177
+					},
+					{
+						"hole_number": 9,
+						"par_value": 5,
+						"scorecard_yardage": 615
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 225
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 505
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 621
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 437
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 480
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 227
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 443
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 570
+					}
+				]
+			},
+			{
+				"name": "Torrey Pines Golf Course (North Course)",
+				"number": 104,
+				"abbreviation": "NC",
+				"city": "San Diego",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "0",
+				"total_par_value": 72,
+				"total_yardage": 7258,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 451
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 389
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 201
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 490
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 564
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 462
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 177
+					},
+					{
+						"hole_number": 9,
+						"par_value": 5,
+						"scorecard_yardage": 615
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 225
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 505
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 621
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 437
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 480
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 227
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 443
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 570
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 48153,
+				"first_name": "Matthieu",
+				"last_name": "Pavon",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1620000.00,
+				"total_score": 275
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025005",
+		"schedule_id": 179934,
+		"Perm_Num": 5,
+		"sequence_number": 50,
+		"Tournament_Name": "AT&T Pebble Beach Pro-Am",
+		"Tournament_ShortName": "AT&T Pebble Beach",
+		"shotlink_short_name": "AT&T Pebble Beach",
+		"start_date": "2025-01-30T00:00:00",
+		"end_date": "2025-02-02T00:00:00",
+		"timezone": "PT",
+		"timezone_desc": "America\/Los_Angeles",
+		"played_year": 2025,
+		"designated_event": true,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Pebble Beach Golf Links",
+				"number": 5,
+				"abbreviation": "PB",
+				"city": "Pebble Beach",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 6972,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 381
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 516
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 404
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 331
+					},
+					{
+						"hole_number": 5,
+						"par_value": 3,
+						"scorecard_yardage": 195
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 523
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 106
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 428
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 504
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 446
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 390
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 445
+					},
+					{
+						"hole_number": 14,
+						"par_value": 5,
+						"scorecard_yardage": 580
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 397
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 403
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 178
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 543
+					}
+				]
+			},
+			{
+				"name": "Spyglass Hill Golf Course",
+				"number": 205,
+				"abbreviation": "SH",
+				"city": "Pebble Beach",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "0",
+				"total_par_value": 72,
+				"total_yardage": 7041,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 381
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 516
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 404
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 331
+					},
+					{
+						"hole_number": 5,
+						"par_value": 3,
+						"scorecard_yardage": 195
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 523
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 106
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 428
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 504
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 446
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 390
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 445
+					},
+					{
+						"hole_number": 14,
+						"par_value": 5,
+						"scorecard_yardage": 580
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 397
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 403
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 178
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 543
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 51766,
+				"first_name": "Wyndham",
+				"last_name": "Clark",
+				"fedex_points_earned": 700.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3600000.00,
+				"total_score": 199
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025003",
+		"schedule_id": 179935,
+		"Perm_Num": 3,
+		"sequence_number": 60,
+		"Tournament_Name": "WM Phoenix Open",
+		"Tournament_ShortName": "WM Phoenix Open",
+		"shotlink_short_name": "WM Phoenix Open",
+		"start_date": "2025-02-06T00:00:00",
+		"end_date": "2025-02-09T00:00:00",
+		"timezone": "MT",
+		"timezone_desc": "America\/Phoenix",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC Scottsdale (Stadium Course)",
+				"number": 510,
+				"abbreviation": "TS",
+				"city": "Scottsdale",
+				"country": "USA",
+				"state": "Arizona",
+				"stateAbbreviation": "AZ",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7261,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 403
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 442
+					},
+					{
+						"hole_number": 3,
+						"par_value": 5,
+						"scorecard_yardage": 558
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 183
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 470
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 432
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 215
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 475
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 453
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 428
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 472
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 192
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 558
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 490
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 553
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 163
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 332
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 442
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 25493,
+				"first_name": "Nick",
+				"last_name": "Taylor",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1584000.00,
+				"total_score": 263
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025007",
+		"schedule_id": 179936,
+		"Perm_Num": 7,
+		"sequence_number": 70,
+		"Tournament_Name": "The Genesis Invitational",
+		"Tournament_ShortName": "Genesis",
+		"shotlink_short_name": "Genesis",
+		"start_date": "2025-02-13T00:00:00",
+		"end_date": "2025-02-16T00:00:00",
+		"timezone": "PT",
+		"timezone_desc": "America\/Los_Angeles",
+		"played_year": 2025,
+		"designated_event": true,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "The Riviera Country Club",
+				"number": 500,
+				"abbreviation": "RC",
+				"city": "Pacific Palisades",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7322,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 5,
+						"scorecard_yardage": 503
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 471
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 236
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 6,
+						"par_value": 3,
+						"scorecard_yardage": 199
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 408
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 433
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 458
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 315
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 583
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 479
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 459
+					},
+					{
+						"hole_number": 14,
+						"par_value": 3,
+						"scorecard_yardage": 192
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 487
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 166
+					},
+					{
+						"hole_number": 17,
+						"par_value": 5,
+						"scorecard_yardage": 590
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 475
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 32839,
+				"first_name": "Hideki",
+				"last_name": "Matsuyama",
+				"fedex_points_earned": 700.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 4000000.00,
+				"total_score": 267
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025540",
+		"schedule_id": 179937,
+		"Perm_Num": 540,
+		"sequence_number": 80,
+		"Tournament_Name": "Mexico Open at VidantaWorld",
+		"Tournament_ShortName": "Mexico Open",
+		"shotlink_short_name": "Mexico Open",
+		"start_date": "2025-02-20T00:00:00",
+		"end_date": "2025-02-23T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "VidantaWorld",
+				"number": 978,
+				"abbreviation": "VV",
+				"city": "Vallarta",
+				"country": "MEX",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7456,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 415
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 498
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 445
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 520
+					},
+					{
+						"hole_number": 5,
+						"par_value": 3,
+						"scorecard_yardage": 208
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 603
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 297
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 496
+					},
+					{
+						"hole_number": 9,
+						"par_value": 3,
+						"scorecard_yardage": 174
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 475
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 195
+					},
+					{
+						"hole_number": 12,
+						"par_value": 5,
+						"scorecard_yardage": 637
+					},
+					{
+						"hole_number": 13,
+						"par_value": 3,
+						"scorecard_yardage": 170
+					},
+					{
+						"hole_number": 14,
+						"par_value": 5,
+						"scorecard_yardage": 585
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 459
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 505
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 226
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 548
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 47420,
+				"first_name": "Jake",
+				"last_name": "Knapp",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1458000.00,
+				"total_score": 265
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025010",
+		"schedule_id": 179938,
+		"Perm_Num": 10,
+		"sequence_number": 90,
+		"Tournament_Name": "Cognizant Classic in The Palm Beaches",
+		"Tournament_ShortName": "Cognizant Classic",
+		"shotlink_short_name": "Cognizant Classic",
+		"start_date": "2025-02-27T00:00:00",
+		"end_date": "2025-03-02T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "PGA National Resort (The Champion Course)",
+				"number": 928,
+				"abbreviation": "CC",
+				"city": "Palm Beach Gardens",
+				"country": "USA",
+				"state": "Florida",
+				"stateAbbreviation": "FL",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7147,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 365
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 464
+					},
+					{
+						"hole_number": 3,
+						"par_value": 5,
+						"scorecard_yardage": 538
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 395
+					},
+					{
+						"hole_number": 5,
+						"par_value": 3,
+						"scorecard_yardage": 217
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 479
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 226
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 427
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 421
+					},
+					{
+						"hole_number": 10,
+						"par_value": 5,
+						"scorecard_yardage": 530
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 450
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 438
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 388
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 465
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 179
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 175
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 556
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 57362,
+				"first_name": "Austin",
+				"last_name": "Eckroat",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1620000.00,
+				"total_score": 267
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025483",
+		"schedule_id": 179939,
+		"Perm_Num": 483,
+		"sequence_number": 100,
+		"Tournament_Name": "Puerto Rico Open",
+		"Tournament_ShortName": "Puerto Rico",
+		"shotlink_short_name": "Puerto Rico",
+		"start_date": "2025-03-06T00:00:00",
+		"end_date": "2025-03-09T00:00:00",
+		"timezone": "AT",
+		"timezone_desc": "America\/Puerto_Rico",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 2,
+		"rounds_official_money": 4,
+		"is_primary": 0,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Grand Reserve Golf Club",
+				"number": 742,
+				"abbreviation": "GR",
+				"city": "Rio Grande",
+				"country": "PUR",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7506,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 447
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 547
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 386
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 455
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 535
+					},
+					{
+						"hole_number": 6,
+						"par_value": 3,
+						"scorecard_yardage": 203
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 448
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 236
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 450
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 430
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 192
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 465
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 410
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 459
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 600
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 411
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 630
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 29535,
+				"first_name": "Brice",
+				"last_name": "Garnett",
+				"fedex_points_earned": 300.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 720000.00,
+				"total_score": 269
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025009",
+		"schedule_id": 179940,
+		"Perm_Num": 9,
+		"sequence_number": 110,
+		"Tournament_Name": "Arnold Palmer Invitational presented by Mastercard",
+		"Tournament_ShortName": "Arnold Palmer",
+		"shotlink_short_name": "Arnold Palmer",
+		"start_date": "2025-03-06T00:00:00",
+		"end_date": "2025-03-09T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": true,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Arnold Palmer's Bay Hill Club & Lodge",
+				"number": 9,
+				"abbreviation": "BH",
+				"city": "Orlando",
+				"country": "USA",
+				"state": "Florida",
+				"stateAbbreviation": "FL",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7466,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 461
+					},
+					{
+						"hole_number": 2,
+						"par_value": 3,
+						"scorecard_yardage": 231
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 4,
+						"par_value": 5,
+						"scorecard_yardage": 590
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 390
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 555
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 199
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 460
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 480
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 400
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 438
+					},
+					{
+						"hole_number": 12,
+						"par_value": 5,
+						"scorecard_yardage": 574
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 382
+					},
+					{
+						"hole_number": 14,
+						"par_value": 3,
+						"scorecard_yardage": 215
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 467
+					},
+					{
+						"hole_number": 16,
+						"par_value": 5,
+						"scorecard_yardage": 511
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 221
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 458
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 46046,
+				"first_name": "Scottie",
+				"last_name": "Scheffler",
+				"fedex_points_earned": 700.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 4000000.00,
+				"total_score": 273
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025011",
+		"schedule_id": 179941,
+		"Perm_Num": 11,
+		"sequence_number": 120,
+		"Tournament_Name": "THE PLAYERS Championship",
+		"Tournament_ShortName": "THE PLAYERS",
+		"shotlink_short_name": "THE PLAYERS",
+		"start_date": "2025-03-13T00:00:00",
+		"end_date": "2025-03-16T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC Sawgrass (THE PLAYERS Stadium Course)",
+				"number": 11,
+				"abbreviation": "SA",
+				"city": "Ponte Vedra Beach",
+				"country": "USA",
+				"state": "Florida",
+				"stateAbbreviation": "FL",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7275,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 423
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 532
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 177
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 384
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 471
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 393
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 451
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 237
+					},
+					{
+						"hole_number": 9,
+						"par_value": 5,
+						"scorecard_yardage": 602
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 424
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 558
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 369
+					},
+					{
+						"hole_number": 13,
+						"par_value": 3,
+						"scorecard_yardage": 181
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 481
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 470
+					},
+					{
+						"hole_number": 16,
+						"par_value": 5,
+						"scorecard_yardage": 523
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 137
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 462
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 46046,
+				"first_name": "Scottie",
+				"last_name": "Scheffler",
+				"fedex_points_earned": 750.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 4500000.00,
+				"total_score": 268
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025475",
+		"schedule_id": 179942,
+		"Perm_Num": 475,
+		"sequence_number": 130,
+		"Tournament_Name": "Valspar Championship",
+		"Tournament_ShortName": "Valspar",
+		"shotlink_short_name": "Valspar",
+		"start_date": "2025-03-20T00:00:00",
+		"end_date": "2025-03-23T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Innisbrook Resort (Copperhead Course)",
+				"number": 665,
+				"abbreviation": "WI",
+				"city": "Palm Harbor",
+				"country": "USA",
+				"state": "Florida",
+				"stateAbbreviation": "FL",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7340,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 5,
+						"scorecard_yardage": 560
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 435
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 455
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 195
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 605
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 465
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 420
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 235
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 430
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 445
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 575
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 380
+					},
+					{
+						"hole_number": 13,
+						"par_value": 3,
+						"scorecard_yardage": 200
+					},
+					{
+						"hole_number": 14,
+						"par_value": 5,
+						"scorecard_yardage": 590
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 215
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 475
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 215
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 445
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 34466,
+				"first_name": "Peter",
+				"last_name": "Malnati",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1512000.00,
+				"total_score": 272
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025020",
+		"schedule_id": 179943,
+		"Perm_Num": 20,
+		"sequence_number": 140,
+		"Tournament_Name": "Texas Children's Houston Open",
+		"Tournament_ShortName": "Houston Open",
+		"shotlink_short_name": "Houston Open",
+		"start_date": "2025-03-27T00:00:00",
+		"end_date": "2025-03-30T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Memorial Park Golf Course",
+				"number": 897,
+				"abbreviation": "MP",
+				"city": "Houston",
+				"country": "USA",
+				"state": "Texas",
+				"stateAbbreviation": "TX",
+				"host_course": "1",
+				"total_par_value": 70,
+				"total_yardage": 7435,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 522
+					},
+					{
+						"hole_number": 2,
+						"par_value": 3,
+						"scorecard_yardage": 167
+					},
+					{
+						"hole_number": 3,
+						"par_value": 5,
+						"scorecard_yardage": 587
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 490
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 440
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 443
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 216
+					},
+					{
+						"hole_number": 8,
+						"par_value": 5,
+						"scorecard_yardage": 625
+					},
+					{
+						"hole_number": 9,
+						"par_value": 3,
+						"scorecard_yardage": 182
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 456
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 237
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 496
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 406
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 529
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 155
+					},
+					{
+						"hole_number": 16,
+						"par_value": 5,
+						"scorecard_yardage": 576
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 405
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 503
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 36799,
+				"first_name": "Stephan",
+				"last_name": "Jaeger",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1638000.00,
+				"total_score": 268
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025041",
+		"schedule_id": 179944,
+		"Perm_Num": 41,
+		"sequence_number": 150,
+		"Tournament_Name": "Valero Texas Open",
+		"Tournament_ShortName": "Valero",
+		"shotlink_short_name": "Valero",
+		"start_date": "2025-04-03T00:00:00",
+		"end_date": "2025-04-06T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC San Antonio (Oaks Course)",
+				"number": 770,
+				"abbreviation": "SA",
+				"city": "San Antonio",
+				"country": "USA",
+				"state": "Texas",
+				"stateAbbreviation": "TX",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7438,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 602
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 171
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 481
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 401
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 403
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 207
+					},
+					{
+						"hole_number": 8,
+						"par_value": 5,
+						"scorecard_yardage": 604
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 474
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 447
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 405
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 410
+					},
+					{
+						"hole_number": 13,
+						"par_value": 3,
+						"scorecard_yardage": 241
+					},
+					{
+						"hole_number": 14,
+						"par_value": 5,
+						"scorecard_yardage": 553
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 464
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 183
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 347
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 591
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 56630,
+				"first_name": "Akshay",
+				"last_name": "Bhatia",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1656000.00,
+				"total_score": 268
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025014",
+		"schedule_id": 179945,
+		"Perm_Num": 14,
+		"sequence_number": 160,
+		"Tournament_Name": "Masters Tournament",
+		"Tournament_ShortName": "Masters",
+		"shotlink_short_name": "Masters",
+		"start_date": "2025-04-10T00:00:00",
+		"end_date": "2025-04-13T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 1,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Augusta National Golf Club",
+				"number": 14,
+				"abbreviation": "AN",
+				"city": "Augusta",
+				"country": "USA",
+				"state": "Georgia",
+				"stateAbbreviation": "GA",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7555,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 445
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 585
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 350
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 240
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 495
+					},
+					{
+						"hole_number": 6,
+						"par_value": 3,
+						"scorecard_yardage": 180
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 450
+					},
+					{
+						"hole_number": 8,
+						"par_value": 5,
+						"scorecard_yardage": 570
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 460
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 495
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 520
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 155
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 545
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 440
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 550
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 170
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 440
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 465
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 46046,
+				"first_name": "Scottie",
+				"last_name": "Scheffler",
+				"fedex_points_earned": 750.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3600000.00,
+				"total_score": 277
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025522",
+		"schedule_id": 179946,
+		"Perm_Num": 522,
+		"sequence_number": 170,
+		"Tournament_Name": "Corales Puntacana Championship",
+		"Tournament_ShortName": "Corales Puntacana",
+		"shotlink_short_name": "Corales Puntacana",
+		"start_date": "2025-04-17T00:00:00",
+		"end_date": "2025-04-20T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 2,
+		"rounds_official_money": 4,
+		"is_primary": 0,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Puntacana Resort & Club (Corales Golf Course)",
+				"number": 244,
+				"abbreviation": "CR",
+				"city": "Punta Cana",
+				"country": "DOM",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7670,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 433
+					},
+					{
+						"hole_number": 2,
+						"par_value": 3,
+						"scorecard_yardage": 239
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 410
+					},
+					{
+						"hole_number": 4,
+						"par_value": 5,
+						"scorecard_yardage": 565
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 465
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 387
+					},
+					{
+						"hole_number": 7,
+						"par_value": 5,
+						"scorecard_yardage": 515
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 399
+					},
+					{
+						"hole_number": 9,
+						"par_value": 3,
+						"scorecard_yardage": 204
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 496
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 265
+					},
+					{
+						"hole_number": 12,
+						"par_value": 5,
+						"scorecard_yardage": 623
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 446
+					},
+					{
+						"hole_number": 14,
+						"par_value": 5,
+						"scorecard_yardage": 626
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 421
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 461
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 214
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 501
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 29420,
+				"first_name": "Billy",
+				"last_name": "Horschel",
+				"fedex_points_earned": 300.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 720000.00,
+				"total_score": 265
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025012",
+		"schedule_id": 179947,
+		"Perm_Num": 12,
+		"sequence_number": 180,
+		"Tournament_Name": "RBC Heritage",
+		"Tournament_ShortName": "RBC Heritage",
+		"shotlink_short_name": "RBC Heritage",
+		"start_date": "2025-04-17T00:00:00",
+		"end_date": "2025-04-20T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": true,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Harbour Town Golf Links",
+				"number": 12,
+				"abbreviation": "HT",
+				"city": "Hilton Head Island",
+				"country": "USA",
+				"state": "South Carolina",
+				"stateAbbreviation": "SC",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7213,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 410
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 550
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 469
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 200
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 569
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 419
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 217
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 473
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 332
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 451
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 436
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 430
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 373
+					},
+					{
+						"hole_number": 14,
+						"par_value": 3,
+						"scorecard_yardage": 192
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 588
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 198
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 472
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 46046,
+				"first_name": "Scottie",
+				"last_name": "Scheffler",
+				"fedex_points_earned": 700.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3600000.00,
+				"total_score": 265
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025018",
+		"schedule_id": 179948,
+		"Perm_Num": 18,
+		"sequence_number": 190,
+		"Tournament_Name": "Zurich Classic of New Orleans",
+		"Tournament_ShortName": "Zurich Classic",
+		"shotlink_short_name": "Zurich Classic",
+		"start_date": "2025-04-24T00:00:00",
+		"end_date": "2025-04-27T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "TES",
+		"scoring_description": "PGA TOUR Official Team Format",
+		"has_been_played": 0,
+		"scoredLevel": 2,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC Louisiana",
+				"number": 714,
+				"abbreviation": "LA",
+				"city": "Avondale",
+				"country": "USA",
+				"state": "Louisiana",
+				"stateAbbreviation": "LA",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7425,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 399
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 548
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 221
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 482
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 438
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 476
+					},
+					{
+						"hole_number": 7,
+						"par_value": 5,
+						"scorecard_yardage": 561
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 372
+					},
+					{
+						"hole_number": 9,
+						"par_value": 3,
+						"scorecard_yardage": 207
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 390
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 575
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 492
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 403
+					},
+					{
+						"hole_number": 14,
+						"par_value": 3,
+						"scorecard_yardage": 216
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 490
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 355
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 215
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 585
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 28237,
+				"first_name": "Rory",
+				"last_name": "McIlroy",
+				"fedex_points_earned": 400.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1286050.00,
+				"total_score": 263
+			},
+			{
+				"P_ID": 33204,
+				"first_name": "Shane",
+				"last_name": "Lowry",
+				"fedex_points_earned": 400.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1286050.00,
+				"total_score": 263
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025019",
+		"schedule_id": 179949,
+		"Perm_Num": 19,
+		"sequence_number": 200,
+		"Tournament_Name": "THE CJ CUP Byron Nelson",
+		"Tournament_ShortName": "THE CJ CUP",
+		"shotlink_short_name": "THE CJ CUP",
+		"start_date": "2025-05-01T00:00:00",
+		"end_date": "2025-05-04T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC Craig Ranch",
+				"number": 921,
+				"abbreviation": "CR",
+				"city": "McKinney",
+				"country": "USA",
+				"state": "Texas",
+				"stateAbbreviation": "TX",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7414,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 431
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 466
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 420
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 219
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 569
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 361
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 232
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 482
+					},
+					{
+						"hole_number": 9,
+						"par_value": 5,
+						"scorecard_yardage": 564
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 471
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 457
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 493
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 512
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 330
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 216
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 492
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 147
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 552
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 40250,
+				"first_name": "Taylor",
+				"last_name": "Pendrith",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1710000.00,
+				"total_score": 261
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025553",
+		"schedule_id": 179952,
+		"Perm_Num": 553,
+		"sequence_number": 210,
+		"Tournament_Name": "Myrtle Beach Classic",
+		"Tournament_ShortName": "Myrtle Beach",
+		"shotlink_short_name": "Myrtle Beach",
+		"start_date": "2025-05-08T00:00:00",
+		"end_date": "2025-05-11T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 0,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Dunes Golf and Beach Club",
+				"number": 925,
+				"abbreviation": "DG",
+				"city": "Myrtle Beach",
+				"country": "USA",
+				"state": "South Carolina",
+				"stateAbbreviation": "SC",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7347,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 425
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 485
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 4,
+						"par_value": 5,
+						"scorecard_yardage": 532
+					},
+					{
+						"hole_number": 5,
+						"par_value": 3,
+						"scorecard_yardage": 216
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 450
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 426
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 475
+					},
+					{
+						"hole_number": 9,
+						"par_value": 3,
+						"scorecard_yardage": 219
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 375
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 450
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 195
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 625
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 500
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 539
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 370
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 170
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 441
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 59095,
+				"first_name": "Chris",
+				"last_name": "Gotterup",
+				"fedex_points_earned": 300.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 720000.00,
+				"total_score": 262
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025480",
+		"schedule_id": 179950,
+		"Perm_Num": 480,
+		"sequence_number": 220,
+		"Tournament_Name": "Truist Championship",
+		"Tournament_ShortName": "Truist",
+		"shotlink_short_name": "Truist Championship",
+		"start_date": "2025-05-08T00:00:00",
+		"end_date": "2025-05-11T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": true,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "The Philadelphia Cricket Club (Wissahickon Course)",
+				"number": 379,
+				"abbreviation": "PC",
+				"city": "Philadelphia",
+				"country": "USA",
+				"state": "Pennsylvania",
+				"stateAbbreviation": "PA",
+				"host_course": "1"
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 28237,
+				"first_name": "Rory",
+				"last_name": "McIlroy",
+				"fedex_points_earned": 700.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3600000.00,
+				"total_score": 267
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025033",
+		"schedule_id": 179953,
+		"Perm_Num": 33,
+		"sequence_number": 230,
+		"Tournament_Name": "PGA Championship",
+		"Tournament_ShortName": "PGA Championship",
+		"shotlink_short_name": "PGA Championship",
+		"start_date": "2025-05-15T00:00:00",
+		"end_date": "2025-05-18T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"PURSE": 0,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Quail Hollow Club",
+				"number": 241,
+				"abbreviation": "QH",
+				"city": "Charlotte",
+				"country": "USA",
+				"state": "North Carolina",
+				"stateAbbreviation": "NC",
+				"host_course": "1"
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 48081,
+				"first_name": "Xander",
+				"last_name": "Schauffele",
+				"fedex_points_earned": 750.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3330000.00,
+				"total_score": 263
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025021",
+		"schedule_id": 179954,
+		"Perm_Num": 21,
+		"sequence_number": 240,
+		"Tournament_Name": "Charles Schwab Challenge",
+		"Tournament_ShortName": "Charles Schwab",
+		"shotlink_short_name": "Charles Schwab",
+		"start_date": "2025-05-22T00:00:00",
+		"end_date": "2025-05-25T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Colonial Country Club",
+				"number": 21,
+				"abbreviation": "CC",
+				"city": "Fort Worth",
+				"country": "USA",
+				"state": "Texas",
+				"stateAbbreviation": "TX",
+				"host_course": "1",
+				"total_par_value": 70,
+				"total_yardage": 7289,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 5,
+						"scorecard_yardage": 581
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 385
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 475
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 248
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 476
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 410
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 480
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 194
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 413
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 407
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 639
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 457
+					},
+					{
+						"hole_number": 13,
+						"par_value": 3,
+						"scorecard_yardage": 199
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 456
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 431
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 197
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 399
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 442
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 47995,
+				"first_name": "Davis",
+				"last_name": "Riley",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1638000.00,
+				"total_score": 266
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025023",
+		"schedule_id": 179955,
+		"Perm_Num": 23,
+		"sequence_number": 250,
+		"Tournament_Name": "the Memorial Tournament presented by Workday",
+		"Tournament_ShortName": "the Memorial",
+		"shotlink_short_name": "the Memorial",
+		"start_date": "2025-05-29T00:00:00",
+		"end_date": "2025-06-01T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": true,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Muirfield Village Golf Club",
+				"number": 23,
+				"abbreviation": "MV",
+				"city": "Dublin",
+				"country": "USA",
+				"state": "Ohio",
+				"stateAbbreviation": "OH",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7569,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 490
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 459
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 392
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 210
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 547
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 455
+					},
+					{
+						"hole_number": 7,
+						"par_value": 5,
+						"scorecard_yardage": 582
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 200
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 417
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 472
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 588
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 180
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 455
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 360
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 561
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 218
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 503
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 480
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 46046,
+				"first_name": "Scottie",
+				"last_name": "Scheffler",
+				"fedex_points_earned": 700.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 4000000.00,
+				"total_score": 280
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025032",
+		"schedule_id": 179956,
+		"Perm_Num": 32,
+		"sequence_number": 260,
+		"Tournament_Name": "RBC Canadian Open",
+		"Tournament_ShortName": "RBC Canadian",
+		"shotlink_short_name": "RBC Canadian",
+		"start_date": "2025-06-05T00:00:00",
+		"end_date": "2025-06-08T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC Toronto at Osprey Valley (North Course)",
+				"number": 935,
+				"city": "Caledon, Ontario",
+				"country": "CAN",
+				"host_course": "1"
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 52215,
+				"first_name": "Robert",
+				"last_name": "MacIntyre",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1692000.00,
+				"total_score": 264
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025026",
+		"schedule_id": 179957,
+		"Perm_Num": 26,
+		"sequence_number": 270,
+		"Tournament_Name": "U.S. Open",
+		"Tournament_ShortName": "U.S. Open",
+		"shotlink_short_name": "U.S. Open",
+		"start_date": "2025-06-12T00:00:00",
+		"end_date": "2025-06-15T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"PURSE": 0,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Oakmont Country Club",
+				"number": 608,
+				"abbreviation": "OC",
+				"city": "Oakmont",
+				"country": "USA",
+				"state": "Pennsylvania",
+				"stateAbbreviation": "PA",
+				"host_course": "1"
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 47959,
+				"first_name": "Bryson",
+				"last_name": "DeChambeau",
+				"fedex_points_earned": 0.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 4300000.00,
+				"total_score": 274
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025034",
+		"schedule_id": 179958,
+		"Perm_Num": 34,
+		"sequence_number": 280,
+		"Tournament_Name": "Travelers Championship",
+		"Tournament_ShortName": "Travelers",
+		"shotlink_short_name": "Travelers",
+		"start_date": "2025-06-19T00:00:00",
+		"end_date": "2025-06-22T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": true,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC River Highlands",
+				"number": 503,
+				"abbreviation": "TR",
+				"city": "Cromwell",
+				"country": "USA",
+				"state": "Connecticut",
+				"stateAbbreviation": "CT",
+				"host_course": "1",
+				"total_par_value": 70,
+				"total_yardage": 6835,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 341
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 431
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 481
+					},
+					{
+						"hole_number": 5,
+						"par_value": 3,
+						"scorecard_yardage": 223
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 574
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 443
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 389
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 462
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 158
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 411
+					},
+					{
+						"hole_number": 13,
+						"par_value": 5,
+						"scorecard_yardage": 523
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 421
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 296
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 171
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 431
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 444
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 46046,
+				"first_name": "Scottie",
+				"last_name": "Scheffler",
+				"fedex_points_earned": 700.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3600000.00,
+				"total_score": 258
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025524",
+		"schedule_id": 179959,
+		"Perm_Num": 524,
+		"sequence_number": 290,
+		"Tournament_Name": "Rocket Mortgage Classic",
+		"Tournament_ShortName": "Rocket Mortgage",
+		"shotlink_short_name": "Rocket Mortgage",
+		"start_date": "2025-06-26T00:00:00",
+		"end_date": "2025-06-29T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Detroit Golf Club",
+				"number": 876,
+				"abbreviation": "DG",
+				"city": "Detroit",
+				"country": "USA",
+				"state": "Michigan",
+				"stateAbbreviation": "MI",
+				"host_course": "1",
+				"total_par_value": 72,
+				"total_yardage": 7370,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 397
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 453
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 393
+					},
+					{
+						"hole_number": 4,
+						"par_value": 5,
+						"scorecard_yardage": 635
+					},
+					{
+						"hole_number": 5,
+						"par_value": 3,
+						"scorecard_yardage": 167
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 461
+					},
+					{
+						"hole_number": 7,
+						"par_value": 5,
+						"scorecard_yardage": 552
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 372
+					},
+					{
+						"hole_number": 9,
+						"par_value": 3,
+						"scorecard_yardage": 207
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 425
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 233
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 489
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 393
+					},
+					{
+						"hole_number": 14,
+						"par_value": 5,
+						"scorecard_yardage": 555
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 160
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 446
+					},
+					{
+						"hole_number": 17,
+						"par_value": 5,
+						"scorecard_yardage": 577
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 455
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 45157,
+				"first_name": "Cam",
+				"last_name": "Davis",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1656000.00,
+				"total_score": 270
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025030",
+		"schedule_id": 179960,
+		"Perm_Num": 30,
+		"sequence_number": 300,
+		"Tournament_Name": "John Deere Classic",
+		"Tournament_ShortName": "John Deere",
+		"shotlink_short_name": "John Deere",
+		"start_date": "2025-07-03T00:00:00",
+		"end_date": "2025-07-06T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC Deere Run",
+				"number": 669,
+				"abbreviation": "DR",
+				"city": "Silvis",
+				"country": "USA",
+				"state": "Illinois",
+				"stateAbbreviation": "IL",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7289,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 416
+					},
+					{
+						"hole_number": 2,
+						"par_value": 5,
+						"scorecard_yardage": 561
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 186
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 433
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 367
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 226
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 428
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 503
+					},
+					{
+						"hole_number": 10,
+						"par_value": 5,
+						"scorecard_yardage": 596
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 432
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 215
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 424
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 361
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 484
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 158
+					},
+					{
+						"hole_number": 17,
+						"par_value": 5,
+						"scorecard_yardage": 569
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 476
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 58168,
+				"first_name": "Davis",
+				"last_name": "Thompson",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1440000.00,
+				"total_score": 256
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025518",
+		"schedule_id": 179961,
+		"Perm_Num": 518,
+		"sequence_number": 310,
+		"Tournament_Name": "ISCO Championship",
+		"Tournament_ShortName": "ISCO Championship",
+		"shotlink_short_name": "ISCO Championship",
+		"start_date": "2025-07-10T00:00:00",
+		"end_date": "2025-07-13T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 0,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Hurstbourne Country Club (Championship Course)",
+				"number": 934,
+				"city": "Louisville",
+				"country": "USA",
+				"state": "Kentucky",
+				"stateAbbreviation": "KY",
+				"host_course": "1"
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 57975,
+				"first_name": "Harry",
+				"last_name": "Hall",
+				"fedex_points_earned": 300.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 720000.00,
+				"total_score": 266
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025541",
+		"schedule_id": 179962,
+		"Perm_Num": 541,
+		"sequence_number": 320,
+		"Tournament_Name": "Genesis Scottish Open",
+		"Tournament_ShortName": "Genesis Scottish Open",
+		"shotlink_short_name": "Genesis Scottish Open",
+		"start_date": "2025-07-10T00:00:00",
+		"end_date": "2025-07-13T00:00:00",
+		"timezone": "UTC+01",
+		"timezone_desc": "Europe\/London",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "The Renaissance Club",
+				"number": 977,
+				"abbreviation": "RC",
+				"city": "North Berwick",
+				"country": "SCO",
+				"host_course": "1",
+				"total_par_value": 70,
+				"total_yardage": 7237,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 464
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 493
+					},
+					{
+						"hole_number": 3,
+						"par_value": 5,
+						"scorecard_yardage": 600
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 422
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 338
+					},
+					{
+						"hole_number": 6,
+						"par_value": 3,
+						"scorecard_yardage": 147
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 505
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 448
+					},
+					{
+						"hole_number": 9,
+						"par_value": 3,
+						"scorecard_yardage": 218
+					},
+					{
+						"hole_number": 10,
+						"par_value": 5,
+						"scorecard_yardage": 594
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 475
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 204
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 418
+					},
+					{
+						"hole_number": 14,
+						"par_value": 3,
+						"scorecard_yardage": 161
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 488
+					},
+					{
+						"hole_number": 16,
+						"par_value": 5,
+						"scorecard_yardage": 576
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 203
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 483
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 52215,
+				"first_name": "Robert",
+				"last_name": "MacIntyre",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1575000.00,
+				"total_score": 262
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025472",
+		"schedule_id": 179963,
+		"Perm_Num": 472,
+		"sequence_number": 330,
+		"Tournament_Name": "Barracuda Championship",
+		"Tournament_ShortName": "Barracuda",
+		"shotlink_short_name": "Barracuda",
+		"start_date": "2025-07-17T00:00:00",
+		"end_date": "2025-07-20T00:00:00",
+		"timezone": "PT",
+		"timezone_desc": "America\/Los_Angeles",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STB",
+		"scoring_description": "PGA TOUR Stableford Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 0,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Tahoe Mountain Club (Old Greenwood)",
+				"number": 931,
+				"abbreviation": "MT",
+				"city": "Truckee",
+				"country": "USA",
+				"state": "California",
+				"stateAbbreviation": "CA",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7480,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 540
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 345
+					},
+					{
+						"hole_number": 3,
+						"par_value": 5,
+						"scorecard_yardage": 551
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 522
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 472
+					},
+					{
+						"hole_number": 6,
+						"par_value": 3,
+						"scorecard_yardage": 221
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 396
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 230
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 451
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 484
+					},
+					{
+						"hole_number": 11,
+						"par_value": 5,
+						"scorecard_yardage": 631
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 196
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 383
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 484
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 578
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 187
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 357
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 452
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 59866,
+				"first_name": "Nick",
+				"last_name": "Dunlap",
+				"fedex_points_earned": 300.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 720000.00,
+				"total_score": 262
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025100",
+		"schedule_id": 179964,
+		"Perm_Num": 100,
+		"sequence_number": 340,
+		"Tournament_Name": "The Open Championship",
+		"Tournament_ShortName": "The Open",
+		"shotlink_short_name": "The Open",
+		"start_date": "2025-07-17T00:00:00",
+		"end_date": "2025-07-20T00:00:00",
+		"timezone": "UTC+01",
+		"timezone_desc": "Europe\/London",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 1,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Royal Portrush Golf Club",
+				"number": 885,
+				"abbreviation": "RP",
+				"city": "Portrush",
+				"country": "NIR",
+				"host_course": "1"
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 48081,
+				"first_name": "Xander",
+				"last_name": "Schauffele",
+				"fedex_points_earned": 750.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3100000.00,
+				"total_score": 275
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025525",
+		"schedule_id": 179965,
+		"Perm_Num": 525,
+		"sequence_number": 350,
+		"Tournament_Name": "3M Open",
+		"Tournament_ShortName": "3M Open",
+		"shotlink_short_name": "3M Open",
+		"start_date": "2025-07-24T00:00:00",
+		"end_date": "2025-07-27T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC Twin Cities",
+				"number": 883,
+				"abbreviation": "TC",
+				"city": "Blaine",
+				"country": "USA",
+				"state": "Minnesota",
+				"stateAbbreviation": "MN",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7431,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 416
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 468
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 501
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 177
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 424
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 594
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 381
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 204
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 502
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 379
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 467
+					},
+					{
+						"hole_number": 12,
+						"par_value": 5,
+						"scorecard_yardage": 593
+					},
+					{
+						"hole_number": 13,
+						"par_value": 3,
+						"scorecard_yardage": 228
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 437
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 451
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 411
+					},
+					{
+						"hole_number": 17,
+						"par_value": 3,
+						"scorecard_yardage": 202
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 596
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 27064,
+				"first_name": "Jhonattan",
+				"last_name": "Vegas",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1458000.00,
+				"total_score": 267
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025013",
+		"schedule_id": 179966,
+		"Perm_Num": 13,
+		"sequence_number": 360,
+		"Tournament_Name": "Wyndham Championship",
+		"Tournament_ShortName": "Wyndham",
+		"shotlink_short_name": "Wyndham",
+		"start_date": "2025-07-31T00:00:00",
+		"end_date": "2025-08-03T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Sedgefield Country Club",
+				"number": 752,
+				"abbreviation": "SF",
+				"city": "Greensboro",
+				"country": "USA",
+				"state": "North Carolina",
+				"stateAbbreviation": "NC",
+				"host_course": "1",
+				"total_par_value": 70,
+				"total_yardage": 7131,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 418
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 442
+					},
+					{
+						"hole_number": 3,
+						"par_value": 3,
+						"scorecard_yardage": 174
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 428
+					},
+					{
+						"hole_number": 5,
+						"par_value": 5,
+						"scorecard_yardage": 529
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 423
+					},
+					{
+						"hole_number": 7,
+						"par_value": 3,
+						"scorecard_yardage": 223
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 374
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 416
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 440
+					},
+					{
+						"hole_number": 11,
+						"par_value": 4,
+						"scorecard_yardage": 486
+					},
+					{
+						"hole_number": 12,
+						"par_value": 3,
+						"scorecard_yardage": 235
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 405
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 505
+					},
+					{
+						"hole_number": 15,
+						"par_value": 5,
+						"scorecard_yardage": 545
+					},
+					{
+						"hole_number": 16,
+						"par_value": 3,
+						"scorecard_yardage": 175
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 406
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 507
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 46414,
+				"first_name": "Aaron",
+				"last_name": "Rai",
+				"fedex_points_earned": 500.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 1422000.00,
+				"total_score": 262
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025027",
+		"schedule_id": 179967,
+		"Perm_Num": 27,
+		"sequence_number": 370,
+		"Tournament_Name": "FedEx St. Jude Championship",
+		"Tournament_ShortName": "FedEx St. Jude",
+		"shotlink_short_name": "FedEx St. Jude",
+		"start_date": "2025-08-07T00:00:00",
+		"end_date": "2025-08-10T00:00:00",
+		"timezone": "CT",
+		"timezone_desc": "America\/Chicago",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "TPC Southwind",
+				"number": 513,
+				"abbreviation": "SW",
+				"city": "Memphis",
+				"country": "USA",
+				"state": "Tennessee",
+				"stateAbbreviation": "TN",
+				"host_course": "1",
+				"total_par_value": 70,
+				"total_yardage": 7243,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 434
+					},
+					{
+						"hole_number": 2,
+						"par_value": 4,
+						"scorecard_yardage": 401
+					},
+					{
+						"hole_number": 3,
+						"par_value": 5,
+						"scorecard_yardage": 579
+					},
+					{
+						"hole_number": 4,
+						"par_value": 3,
+						"scorecard_yardage": 196
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 485
+					},
+					{
+						"hole_number": 6,
+						"par_value": 4,
+						"scorecard_yardage": 445
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 482
+					},
+					{
+						"hole_number": 8,
+						"par_value": 3,
+						"scorecard_yardage": 171
+					},
+					{
+						"hole_number": 9,
+						"par_value": 4,
+						"scorecard_yardage": 457
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 465
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 162
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 406
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 472
+					},
+					{
+						"hole_number": 14,
+						"par_value": 3,
+						"scorecard_yardage": 205
+					},
+					{
+						"hole_number": 15,
+						"par_value": 4,
+						"scorecard_yardage": 395
+					},
+					{
+						"hole_number": 16,
+						"par_value": 5,
+						"scorecard_yardage": 530
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 505
+					},
+					{
+						"hole_number": 18,
+						"par_value": 4,
+						"scorecard_yardage": 453
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 32839,
+				"first_name": "Hideki",
+				"last_name": "Matsuyama",
+				"fedex_points_earned": 2000.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3600000.00,
+				"total_score": 263
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025028",
+		"schedule_id": 179968,
+		"Perm_Num": 28,
+		"sequence_number": 380,
+		"Tournament_Name": "BMW Championship",
+		"Tournament_ShortName": "BMW Championship",
+		"shotlink_short_name": "BMW Championship",
+		"start_date": "2025-08-14T00:00:00",
+		"end_date": "2025-08-17T00:00:00",
+		"timezone": "MT",
+		"timezone_desc": "America\/Denver",
+		"played_year": 2025,
+		"designated_event": false,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "Caves Valley Golf Club",
+				"number": 882,
+				"abbreviation": "CV",
+				"city": "Owings Mills",
+				"country": "USA",
+				"state": "Maryland",
+				"stateAbbreviation": "MD",
+				"host_course": "1"
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 33141,
+				"first_name": "Keegan",
+				"last_name": "Bradley",
+				"fedex_points_earned": 2000.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 3600000.00,
+				"total_score": 276
+			}
+		]
+	},
+	{
+		"Tour_Name": "PGA TOUR",
+		"Year": 2025,
+		"T_ID": "R2025060",
+		"schedule_id": 179969,
+		"Perm_Num": 60,
+		"sequence_number": 390,
+		"Tournament_Name": "TOUR Championship",
+		"Tournament_ShortName": "TOUR Championship",
+		"shotlink_short_name": "TOUR Championship",
+		"start_date": "2025-08-21T00:00:00",
+		"end_date": "2025-08-24T00:00:00",
+		"timezone": "ET",
+		"timezone_desc": "America\/New_York",
+		"played_year": 2025,
+		"designated_event": false,
+		"PURSE": 0,
+		"format": "STD",
+		"scoring_description": "PGA TOUR Standard Format",
+		"has_been_played": 0,
+		"scoredLevel": 3,
+		"rounds_official_money": 4,
+		"is_primary": 1,
+		"is_official": 1,
+		"fall_series": false,
+		"courses": [
+			{
+				"name": "East Lake Golf Club",
+				"number": 933,
+				"abbreviation": "EL",
+				"city": "Atlanta",
+				"country": "USA",
+				"state": "Georgia",
+				"stateAbbreviation": "GA",
+				"host_course": "1",
+				"total_par_value": 71,
+				"total_yardage": 7490,
+				"holes": [
+					{
+						"hole_number": 1,
+						"par_value": 4,
+						"scorecard_yardage": 469
+					},
+					{
+						"hole_number": 2,
+						"par_value": 3,
+						"scorecard_yardage": 197
+					},
+					{
+						"hole_number": 3,
+						"par_value": 4,
+						"scorecard_yardage": 391
+					},
+					{
+						"hole_number": 4,
+						"par_value": 4,
+						"scorecard_yardage": 479
+					},
+					{
+						"hole_number": 5,
+						"par_value": 4,
+						"scorecard_yardage": 442
+					},
+					{
+						"hole_number": 6,
+						"par_value": 5,
+						"scorecard_yardage": 525
+					},
+					{
+						"hole_number": 7,
+						"par_value": 4,
+						"scorecard_yardage": 481
+					},
+					{
+						"hole_number": 8,
+						"par_value": 4,
+						"scorecard_yardage": 455
+					},
+					{
+						"hole_number": 9,
+						"par_value": 3,
+						"scorecard_yardage": 235
+					},
+					{
+						"hole_number": 10,
+						"par_value": 4,
+						"scorecard_yardage": 424
+					},
+					{
+						"hole_number": 11,
+						"par_value": 3,
+						"scorecard_yardage": 214
+					},
+					{
+						"hole_number": 12,
+						"par_value": 4,
+						"scorecard_yardage": 389
+					},
+					{
+						"hole_number": 13,
+						"par_value": 4,
+						"scorecard_yardage": 440
+					},
+					{
+						"hole_number": 14,
+						"par_value": 4,
+						"scorecard_yardage": 520
+					},
+					{
+						"hole_number": 15,
+						"par_value": 3,
+						"scorecard_yardage": 211
+					},
+					{
+						"hole_number": 16,
+						"par_value": 4,
+						"scorecard_yardage": 454
+					},
+					{
+						"hole_number": 17,
+						"par_value": 4,
+						"scorecard_yardage": 430
+					},
+					{
+						"hole_number": 18,
+						"par_value": 5,
+						"scorecard_yardage": 590
+					}
+				]
+			}
+		],
+		"prev_winners": [
+			{
+				"P_ID": 46046,
+				"first_name": "Scottie",
+				"last_name": "Scheffler",
+				"fedex_points_earned": 24000000.000,
+				"fedex_fall_points_earned": "",
+				"money_earned": 0.00,
+				"total_score": 264
+			}
+		]
+	}
+]
